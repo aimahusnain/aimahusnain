@@ -79,8 +79,8 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-husnain-928507248/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aimahusnain@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-husnain-928507248/"><img src="https://img.shields.io/badge/-Muhammad%20Husnain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aimahusnain@gmail.com"><img src="https://img.shields.io/badge/-aimahusnain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
