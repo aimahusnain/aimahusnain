@@ -4,9 +4,9 @@
   </div>
 <p align="center">
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Agentic AI Engineer & Website Developer
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Help 280+ Clients
  
 <h2>Tech Stack</h2>
 
